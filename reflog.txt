@@ -1,0 +1,14 @@
+f5016b4 (HEAD -> main, origin/main, origin/HEAD) HEAD@{0}: commit (merge): merge
+57fe450 HEAD@{1}: commit: ajout fichier log.txt
+6ec60be HEAD@{2}: checkout: moving from tobedeleted to main
+b733f8e HEAD@{3}: commit: Ajout d'azerty
+6ec60be HEAD@{4}: checkout: moving from main to tobedeleted
+6ec60be HEAD@{5}: reset: moving to HEAD^
+0dc5688 (meteo) HEAD@{6}: merge meteo: Fast-forward
+d5de899 HEAD@{7}: checkout: moving from meteo to main
+0dc5688 (meteo) HEAD@{8}: commit: README dans la branche meteo
+6ec60be HEAD@{9}: commit: modification météo
+d5de899 HEAD@{10}: checkout: moving from main to meteo
+d5de899 HEAD@{11}: commit: Hello World
+d44868a HEAD@{12}: commit: ajout du fichier README.md
+e353373 HEAD@{13}: clone: from https://github.com/louismora/controle.git
