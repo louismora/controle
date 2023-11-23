@@ -46,3 +46,4 @@ Date:   Thu Nov 23 09:47:57 2023 +0100
     Création du fichier anglais.txt
 ~
 Modification du fichier log.txt
+2ème modification pour conserver la branche distante
