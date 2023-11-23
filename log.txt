@@ -1,0 +1,47 @@
+commit 6ec60bebcaef6827fa16776eb4dde157f3fc037f (HEAD -> main)
+Author: louismora <louis.mora.edu@groupe-gema.com>
+Date:   Thu Nov 23 10:08:53 2023 +0100
+
+    modification météo
+
+commit d5de899f98aeb900bda320ea07fd57fea083ae8e
+Author: louismora <louis.mora.edu@groupe-gema.com>
+Date:   Thu Nov 23 10:02:41 2023 +0100
+
+    Hello World
+
+commit d44868a82829d9407a45d483065dbb9bb3e89a5a
+Author: louismora <louis.mora.edu@groupe-gema.com>
+Date:   Thu Nov 23 10:00:04 2023 +0100
+
+    ajout du fichier README.md
+
+commit e3533730e634e648958b9dfb4ca844335e18bc0b
+Author: louismora <147699520+louismora@users.noreply.github.com>
+Date:   Thu Nov 23 09:47:57 2023 +0100
+
+:...skipping...
+commit 6ec60bebcaef6827fa16776eb4dde157f3fc037f (HEAD -> main)
+Author: louismora <louis.mora.edu@groupe-gema.com>
+Date:   Thu Nov 23 10:08:53 2023 +0100
+
+    modification météo
+
+commit d5de899f98aeb900bda320ea07fd57fea083ae8e
+Author: louismora <louis.mora.edu@groupe-gema.com>
+Date:   Thu Nov 23 10:02:41 2023 +0100
+
+    Hello World
+
+commit d44868a82829d9407a45d483065dbb9bb3e89a5a
+Author: louismora <louis.mora.edu@groupe-gema.com>
+Date:   Thu Nov 23 10:00:04 2023 +0100
+
+    ajout du fichier README.md
+
+commit e3533730e634e648958b9dfb4ca844335e18bc0b
+Author: louismora <147699520+louismora@users.noreply.github.com>
+Date:   Thu Nov 23 09:47:57 2023 +0100
+
+    Création du fichier anglais.txt
+~
